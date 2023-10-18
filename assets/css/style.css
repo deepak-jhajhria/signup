@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+.container {
+  max-width: 600px !important;
+}
+input {
+  border-radius: 5px !important;
+  border: 1px solid rgba(0, 0, 0, 0.4) !important;
+  background: rgba(0, 0, 0, 0) !important;
+}
